@@ -1,0 +1,17 @@
+a {
+    color: blue;
+}
+a:hover{
+    color: rgb(149, 123, 211)
+}
+strong{
+    color: red;
+}
+.destaque{
+    background-color: #FFFED1;
+    height: 5vh;
+    width: 40%;
+}
+#unico{
+    font-weight: bold;
+}

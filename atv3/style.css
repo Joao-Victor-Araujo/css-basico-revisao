@@ -1,0 +1,36 @@
+#header{
+    border: 4px solid;
+    background-color: red;
+    border-color: green;
+    height: 18vh;
+}
+.paragrafo{
+border: 2px solid;
+background-color: white;
+border-color: black;
+height: 18vh;  
+}
+.item{
+    border: 2px solid;
+    background-color: rgb(236, 0, 197);
+    border-color: rgb(0, 0, 0);
+    height: 18vh;
+}
+#one{
+    color:green;
+}
+#two{
+    color: rgb(48, 48, 48);
+}
+#tre{
+    color: yellow;
+}
+ul li{
+    text-decoration: underline;
+}
+.paragrafo3{
+    border: 3px solid;
+    background-color: orange;
+    border-color: rgb(255, 0, 0);
+    height: 18vh;
+}
